@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "939075535503",
+    "firebase_url": "https://fisibility-lite-default-rtdb.firebaseio.com",
+    "project_id": "fisibility-lite",
+    "storage_bucket": "fisibility-lite.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939075535503:android:43dcc54dbfada1d45166fa",
+        "android_client_info": {
+          "package_name": "com.fisibilitylite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939075535503-ahi9rjdh208i0ah3o3jmqf71r5a7uumo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fisibilitylite",
+            "certificate_hash": "68ce81db750fa60fcf5c9a7b09759d728a0b7b5a"
+          }
+        },
+        {
+          "client_id": "939075535503-lkvkue2j2oa7rfg5ueeo7b5oetqgq67q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fisibilitylite",
+            "certificate_hash": "301f9d89c229c081a3a164c47805855a4e835964"
+          }
+        },
+        {
+          "client_id": "939075535503-v1s930uvolicc4hl1imdubvvdl712677.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fisibilitylite",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "939075535503-sqclgjfkqu494mr3kueaiqn3obfjhinr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoy0jMjbeULV3a2gCY74OpBthJFU1AmWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939075535503-sqclgjfkqu494mr3kueaiqn3obfjhinr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939075535503-lu9e4sagh6ujjkb9bgjhp2clt2b3jddo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fisibility.fisibilitylite"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:939075535503:android:029415632789833c5166fa",
+        "android_client_info": {
+          "package_name": "com.tasker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "939075535503-sqclgjfkqu494mr3kueaiqn3obfjhinr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBoy0jMjbeULV3a2gCY74OpBthJFU1AmWs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "939075535503-sqclgjfkqu494mr3kueaiqn3obfjhinr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "939075535503-lu9e4sagh6ujjkb9bgjhp2clt2b3jddo.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.fisibility.fisibilitylite"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
